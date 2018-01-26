@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ninakivu/kitten-adoption/issues"
   },
-  "homepage": "https://github.com/ninakivu/kitten-adoption#readme"
+  "homepage": "https://github.com/ninakivu/kitten-adoption#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
 }
